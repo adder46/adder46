@@ -1,1 +1,1 @@
-![lab](lab.png)
+I like computer science, software engineering, and mathematics.
